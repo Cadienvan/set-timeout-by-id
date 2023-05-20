@@ -1,3 +1,9 @@
+#### 0.1.2 (2023-05-20)
+
+##### Performance Improvements
+
+*  preventing double setTimeout ([6ca1d745](https://github.com/Cadienvan/set-timeout-by-id/commit/6ca1d7459b9717f2f2283b3203b549dd9e4b3bd2))
+
 #### 0.1.1 (2023-05-20)
 
 ##### Chores
