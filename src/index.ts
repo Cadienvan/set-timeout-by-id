@@ -1,4 +1,4 @@
-type TimeoutFn = () => void;
+type TimeoutFn = (...args: any[]) => any;
 type TimeoutKey = string | number | symbol;
 
 const internalTimeouts = new Map<
