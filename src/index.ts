@@ -13,10 +13,13 @@ export const setTimeoutById = (
 ): void => {
   if (!key) throw new Error('setTimeoutById requires a key');
   if (!internalTimeouts.has(key)) {
-    internalTimeouts.set(key, setTimeout(fn, delay));
-    setTimeout(() => {
-      internalTimeouts.delete(key);
-    }, delay);
+    internalTimeouts.set(
+      key,
+      setTimeout(() => {
+        internalTimeouts.delete(key);
+        fn();
+      }, delay)
+    );
   }
 };
 
