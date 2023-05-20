@@ -2,7 +2,7 @@
   "name": "set-timeout-by-id",
   "description": "A simple package to set and clear a timeout by id instead of using variables.",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
