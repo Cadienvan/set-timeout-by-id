@@ -1,3 +1,10 @@
+#### 0.1.1 (2023-05-20)
+
+##### Chores
+
+*  better typing for TimeoutFn ([d1c026b0](https://github.com/Cadienvan/set-timeout-by-id/commit/d1c026b0588236f42256a01a1f78c5572afffb5a))
+*  removing examples ([8e680a0d](https://github.com/Cadienvan/set-timeout-by-id/commit/8e680a0ddbdb9a5d0acec640315a810503c15e65))
+
 ### 0.1.0 (2023-05-20)
 
 ##### Chores
