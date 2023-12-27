@@ -1,3 +1,9 @@
+#### 0.1.3 (2023-12-27)
+
+##### Chores
+
+*  update dependencies ([ec67f1f7](https://github.com/Cadienvan/set-timeout-by-id/commit/ec67f1f79f1661261044668bc1078b8c62b960f8))
+
 #### 0.1.2 (2023-05-20)
 
 ##### Performance Improvements
